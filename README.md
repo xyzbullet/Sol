@@ -34,7 +34,7 @@
 
 ### Fork
 
-**This Project** is a fork of [FunnyExecutor](https://github.com/lowlevelklinti/FunnyExecutor which is based on [brickified](https://github.com/brickified/bricksploit).
+**This Project** is a fork of [FunnyExecutor](https://github.com/lowlevelklinti/FunnyExecutor) which is based on [brickified](https://github.com/brickified/bricksploit).
 
 ---
 
