@@ -1,0 +1,4 @@
+- [ ] Luarmor Support
+- [ ] Better-looking UI
+- [ ] More Functions (within the limitations of a purely Luau executor)
+- [ ] Possible Script Hub?
