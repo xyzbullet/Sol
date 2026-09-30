@@ -1,7 +1,12 @@
 ![sol](./apparel.svg)
-# Sol
 
-> A lightweight and simple Roblox executor.
+<p align="left">
+  <a href="https://github.com/xyzbullet/Sol/"><img src="https://skillicons.dev/icons?i=github" alt="View on GitHub"></a>
+</p>
+
+#
+
+> Sol is a lightweight, modern, Python-based executor that makes use of a Custom Luau VM based on Fiu. Pull requests are accepted (as long as the necessary files are compiled, i.e init.luau), and my friend and I are currently working on adding more features
 
 
 ---
