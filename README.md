@@ -1,3 +1,4 @@
+![sol](./apparel.svg)
 # Sol
 
 > A lightweight and simple Roblox executor.
