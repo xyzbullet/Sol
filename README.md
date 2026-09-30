@@ -6,8 +6,7 @@
 
 #
 
-> Sol is a lightweight, modern, Python-based executor that makes use of a Custom Luau VM based on Fiu. Pull requests are accepted (as long as the necessary files are compiled, i.e init.luau), and my friend and I are currently working on adding more features
-
+**Sol** is a lightweight, modern, Python-based executor that uses a Custom Luau VM based on Fiu. Pull requests are accepted (as long as the necessary files are compiled, i.e init.luau), and my friend and I are currently working on adding more features
 
 ---
 
