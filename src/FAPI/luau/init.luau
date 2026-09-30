@@ -2634,6 +2634,19 @@ request = function(options)
 		end
 	end
 
+local url = options.Url
+
+local clean_url = url:lower():gsub("%s+", "")
+
+if clean_url:find("localhost:3110") or 
+   clean_url:find("127%.0%.0%.1:3110") or 
+   clean_url:find("127%.1:3110") or 
+   clean_url:find("%[::1%]:3110") or 
+   clean_url:find("0%.0%.0%.0:3110") or 
+   clean_url:find(":3110") then
+    error("Request function is not allowed to call the bridge server")
+	return
+end				
 	local result = nil
 
 	http:RequestInternal({
